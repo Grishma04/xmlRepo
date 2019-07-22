@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE movies SYSTEM "movies.dtd" >
+<movies>
+  <movie>
+    <code>101</code>
+    <title>Yeh Jawani Hai Deewani</title>
+    <release-date>
+		<day>13</day> 
+		<month>7</month>
+		<year>2019</year>   
+    </release-date>
+    <theatre-name>Inox</theatre-name>
+    <theatre-name>City Pride</theatre-name>
+	<city>Pune</city>
+	<city>Mumbai</city>
+	<city>Delhi</city>
+	<city>Indore</city>
+  </movie>
+  <movie>
+  <code>105</code>
+  <title>Sholey</title>
+  <theatre-name>PVR cinemas</theatre-name>
+  </movie>
+</movies>
